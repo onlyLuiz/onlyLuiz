@@ -4,10 +4,10 @@ meu nome é Luiz Eduardo, tenho 16 anos, sou do Brasil 🇧🇷, estou começand
 
 I am passionate about programming and I learn easy I am open to new challenges.
 
-"Eu vim da selva, sou um leão, sou demais para o seu quintal .."🦁🤴🏿
+"Eu vim da selva, sou um leão, sou demais para o seu quintal .." 🦁🤴🏿
 
-• de sp morando em São Paulo 🌆
-• dev.front-end👨🏿‍💻
-• compartilhando um pouco da minha jornada inicial✨
+- de sp morando em São Paulo 🌆-
+-dev.front-end👨🏿‍💻
+-compartilhando um pouco da minha jornada inicial✨
 
 
