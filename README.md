@@ -1,4 +1,4 @@
-# Olá 👋 <img src = "https://photos.app.goo.gl/jsVwi4YaaMUGj1ZA8" >
+# Olá 👋 <img src "/storage/emulated/0/Download/tenor (1).gif" >
 meu nome é Luiz Eduardo, tenho 16 anos, sou do Brasil 🇧🇷, estou começando com a programação e a área que me identifico é front-end, e escolhi como área de trabalho, estou aprendendo e buscando conhecimento.🧠
 
 
