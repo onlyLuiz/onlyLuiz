@@ -12,8 +12,8 @@ I am passionate about programming and I learn easy I am open to new challenges.
 
 
 me siga🤞🏿👇🏿
-[! [Selo do Gmail] (https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego.schell.f@ gmail .com)] (mailto: diego.schell.f@gmail.com)
 
+[![Instagram Badge](https://img.shields.io/badge/-@pretinluiiz-6495ED?style=flat-square&labelColor=6495ED&logo=instagram&logoColor=white&link=https://https://www.instagram.com/pretin_luiiz?r=nametag)](https://www.instagram.com/pretin_luiiz?r=nametag
 
 
 
