@@ -13,7 +13,7 @@ I am passionate about programming and I learn easy I am open to new challenges.
 
 me siga🤞🏿👇🏿
 
-[![Instagram Badge](https://img.shields.io/badge/-@pretinluiiz-6495ED?style=flat-square&labelColor=6495ED&logo=instagram&logoColor=white&link=https://https://www.instagram.com/pretin_luiiz?r=nametag)](https://www.instagram.com/pretin_luiiz?r=nametag
+[![Instagram Badge](https://img.shields.io/badge/-@pretinluiiz-6495ED?style=flat-square&labelColor=6495ED&logo=instagram&logoColor=white&link=https://https://www.instagram.com/pretin_luiiz?r=nametag)](https://www.instagram.com/pretin_luiiz?r=nametag )
 
 
 
