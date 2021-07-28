@@ -1,4 +1,5 @@
-# Olá 👋 
+# Olá 👋  ![ezgif com-gif-maker](https://user-images.githubusercontent.com/71404614/127393041-66413532-07d2-426e-af4f-b353e284c8cb.gif)
+
 meu nome é Luiz Eduardo, tenho 16 anos, sou do Brasil 🇧🇷, estou começando com a programação e a área que me identifico é front-end, e escolhi como área de trabalho, estou aprendendo e buscando conhecimento.🧠
 
 
