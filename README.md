@@ -11,6 +11,7 @@ I am passionate about programming and I learn easy I am open to new challenges.
 - sharing a little bit of my initial journey🎯
 
 
+me siga🤞🏿👇🏿
 
 
 
