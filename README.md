@@ -1,2 +1,13 @@
 # Olá 👋
-my name is Luiz Eduardo, I'm 16 years old, I'm from Brazil 🇧🇷, I'm starting with programming and the area that I identify with is front-end, and I chose it as a work area, I'm learning and seeking knowledge.
+meu nome é Luiz Eduardo, tenho 16 anos, sou do Brasil 🇧🇷, estou começando com a programação e a área que me identifico é front-end, e escolhi como área de trabalho, estou aprendendo e buscando conhecimento.🧠
+
+
+I am passionate about programming and I learn easy I am open to new challenges.
+
+"Eu vim da selva, sou um leão, sou demais para o seu quintal .."🦁🤴🏿
+
+• de sp morando em São Paulo 🌆
+• dev.front-end👨🏿‍💻
+• compartilhando um pouco da minha jornada inicial✨
+
+
