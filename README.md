@@ -6,8 +6,11 @@ I am passionate about programming and I learn easy I am open to new challenges.
 
 "Eu vim da selva, sou um leão, sou demais para o seu quintal .." 🦁🤴🏿
 
-- de sp morando em São Paulo 🌆-
--dev.front-end👨🏿‍💻
--compartilhando um pouco da minha jornada inicial✨
+- de sp morando em São Paulo 🌆
+- dev.front-end👨🏿‍💻
+- sharing a little bit of my initial journey🎯
+
+
+
 
 
