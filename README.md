@@ -1,4 +1,4 @@
-# Olá 👋  ![ezgif com-gif-maker](https://user-images.githubusercontent.com/71404614/127393041-66413532-07d2-426e-af4f-b353e284c8cb.gif)
+# Hello 👋  ![ezgif com-gif-maker](https://user-images.githubusercontent.com/71404614/127393041-66413532-07d2-426e-af4f-b353e284c8cb.gif)
 
 
 my name is Luiz Eduardo, I'm 16 years old, I'm from Brazil, I'm starting with programming and the area I identify with is front-end, and I chose it as a work area, I'm learning and seeking knowledge.🧠
